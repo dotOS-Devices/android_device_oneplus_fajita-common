@@ -1,8 +1,0 @@
-[
-  {
-    "repository"  : "kdrag0n/proton-clang",
-    "branch"      : "master",
-    "remote"      : "github",
-    "target_path" : "prebuilts/clang/host/linux-x86/clang-proton"
-  }
-]
