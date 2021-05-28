@@ -169,6 +169,13 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += oneplus-mock
 PRODUCT_BOOT_JARS += oneplus-mock
 
+# OnePlus
+PRODUCT_PACKAGES += \
+    oneplus-fwk.oneplus_msmnile
+
+PRODUCT_BOOT_JARS += \
+    oneplus-fwk.oneplus_msmnile
+
 # Power
 PRODUCT_PACKAGES += \
     power.qcom:64
